@@ -1,0 +1,5 @@
+@EndUserText.label: 'Service Definition for Read Only Order App'
+define service YRD_Order_U_S16 {
+  expose YRDC_ORDER_S16;
+  expose YRDC_ORDERITEM_S16;
+}

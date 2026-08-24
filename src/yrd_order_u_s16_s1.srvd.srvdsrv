@@ -1,0 +1,5 @@
+@EndUserText.label: 'Service Definition for V2'
+define service YRD_Order_U_S16_S1 {
+  expose YRDC_ORDER_S16;
+  expose YRDC_ORDERITEM_S16;
+}
